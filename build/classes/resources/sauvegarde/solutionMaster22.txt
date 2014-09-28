@@ -1,0 +1,11 @@
+Pour la map suivante :
+E E E B 
+E B E B 
+B E E E 
+B B B E 
+
+Une solution a été trouvée :
+XP  XP  W   WO  
+VP  V   WP  UO  
+VO  Z   UP  U   
+Z   ZO  YO  YP  

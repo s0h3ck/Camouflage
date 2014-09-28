@@ -1,0 +1,6 @@
+4, 4
+
+BEEE
+BBBB
+EEEB
+BBBB

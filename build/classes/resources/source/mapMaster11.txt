@@ -1,0 +1,6 @@
+4, 4
+
+BBBE
+BEBE
+BEBE
+BEBB
