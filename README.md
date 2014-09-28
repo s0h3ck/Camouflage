@@ -3,7 +3,7 @@ Camouflage
 
 <h3>Algorithme qui solutionne les maps du jeu Camouflage</h3>
 
-<p>But : Solutionner les maps du jeu Camouflage</p>
+<p>But : solutionner les maps du jeu Camouflage</p>
 
 <pre>
 Langage utilisé : Java
